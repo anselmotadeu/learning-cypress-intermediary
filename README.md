@@ -1,34 +1,43 @@
-# Testes automatizados com Cypress - Intermediário
+# Curso de Testes Automatizados com Cypress - Intermediário
 
-👋 Seja bem-vinda(o)!
+Este é o README do curso de Testes Automatizados com Cypress - Intermediário. Estou muito empolgado em compartilhar com vocês o conhecimento e as habilidades que adquiri ao longo do curso. Vamos mergulhar de cabeça na automação de testes com Cypress e aprimorar nossas habilidades nessa área!
 
-É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
+## O que aprendi neste curso
 
-## O que você vai aprender
+Durante o curso, tive a oportunidade de aprender e praticar diversos aspectos importantes relacionados aos testes automatizados com Cypress - Intermediário. Alguns dos tópicos que abordamos incluem:
 
-Durante o curso de testes automatizados com Cypress (intermediário) você vai aprender:
+- Configuração do ambiente de desenvolvimento local para a automação de testes.
+- Instalação e configuração do Cypress para começar a criar nossos testes automatizados.
+- Criação de testes automatizados para a interface gráfica do usuário (UI).
+- Desenvolvimento de testes automatizados para APIs com feedback visual direto no navegador.
+- Testes de APIs que exigem autenticação por token de acesso.
+- Criação de testes otimizados e eficientes, poupando tempo e recursos.
+- Implementação de lógica para salvar a sessão do usuário no navegador e restaurá-la posteriormente.
+- Validação da vigência da sessão do usuário e lidar com situações em que a mesma é invalidada.
+- Limpeza e criação dos dados necessários antes da execução dos testes.
+- Proteção de dados sensíveis, como senhas e tokens de acesso.
+- Organização dos testes e comandos customizados em diferentes camadas (API, CLI, GUI).
+- Estruturação dos testes com base em pré-condições, ações e resultados esperados.
+- Geração de dados aleatórios para serem utilizados nos testes automatizados.
+- Exploração de recursos experimentais do Cypress para ampliar nosso conhecimento.
+- Execução de comandos no nível do sistema operacional durante os testes.
+- Testes de leitura de arquivos para verificar a manipulação adequada de dados.
 
-- Como configurar o ambiente local de desenvolvimento
-- Como instalar e configurar o Cypress
-- Como criar testes automatizados de interface gráfica de usuário
-- Como criar testes automatizados de API (com _feedback_ visual no navegador)
-- Como testar APIs que necessitam um _token_ de acesso
-- Como criar testes otimizados e direto-ao-ponto
-- Como salvar a sessão do usuário no navegador para posterior restauração
-- Como validar se a sessão do usuário ainda é válida e como lidar com isso quando a mesma é invalidada
-- Como fazer a limpeza e criação da massa de dados antes do teste começar
-- Como proteger dados sensíveis, tais como senhas e _tokens_ de acesso
-- Como organizar os testes e comandos customizados em diferentes "camadas" (_API, CLI, GUI_)
-- Como estruturar os testes pensando em pré-condições, ações e resultados esperados
-- Como gerar dados aleatórios para uso nos testes automatizados
-- Como habilitar funcionalidades experimentais do Cypress
-- Como executar comandos à nível de sistema operacional
-- E como testar a leitura de arquivos
+## Como aproveitar ao máximo este curso
 
-## Vamos começar?
+Para aproveitar ao máximo este curso, recomendo seguir as seguintes etapas:
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
+1. Comece pela seção [Estrutura do Curso](./lessons/_course-structure_.md) para ter uma visão geral do conteúdo.
+2. Avance por cada lição e pratique os conceitos apresentados. Não tenha medo de se aprofundar nos exemplos e desafios propostos.
+3. Faça anotações e revise o material sempre que necessário. Isso ajudará na retenção do conhecimento.
+4. Aproveite as discussões e interações com outros alunos. Compartilhe suas experiências e aprenda com os demais.
+5. Ao final do curso, teste seus conhecimentos com os projetos finais propostos e compartilhe seus resultados com a comunidade.
 
-___
+Lembre-se de que a prática é fundamental para o desenvolvimento de habilidades sólidas em testes automatizados. Portanto, dedique tempo para explorar e experimentar diferentes cenários, adaptando o conteúdo do curso aos seus próprios projetos e necessidades.
 
-Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+Desejo a todos vocês uma experiência de aprendizado enriquecedora. Vamos aprimorar nossas habilidades em testes automatizados com Cypress e construir softwares de qualidade excepcional!
+
+Divirta-se aprendendo e conte comigo caso precise de ajuda ao longo do curso!
+
+---
+Este curso foi desenvolvido por [Professor Walmmyr Filho], especialista em testes automatizados e autoridade no assunto. Agradeço ao [Walmy Filho] por compartilhar seu conhecimento e experiência neste curso.
